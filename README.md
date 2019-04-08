@@ -1,2 +1,2 @@
 # numpy_tutorial
-learn numpy tutorial
+* learn_numpy.py
