@@ -5,3 +5,5 @@
 * Python Numpy教程                            python_numpy.py
 * 创建Numpy数组的不同方式                     create_numpy_method.py
 * Numpy中的矩阵和向量                         matrix_and_vector.py
+* Numpy数据分析练习                           numpy_practice.py
+
